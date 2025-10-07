@@ -1,0 +1,17 @@
+# 只对swift文件生效
+[*.swift]
+
+# Intent stype 默认空格
+indent_style = space
+
+# 缩进，默认2个空格
+indent_size = 2
+
+# TAB缩进，默认2个空格
+tab_width = 2
+
+# true的情况下，会自动删除行尾的空白字符
+trim_trailing_whitespace = true
+
+# 是否在最后加入空行
+insert_final_newline = true
