@@ -253,9 +253,12 @@ LZO is a portable lossless data compression library written in ANSI C. It offers
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This library includes and links to miniLZO, which is licensed under the
+GNU General Public License (GPL) version 2 or later by
+Markus F.X.J. Oberhumer.
 
-The miniLZO library is licensed under the GNU General Public License (GPL).
+Therefore, this Swift library is distributed under the GNU General Public License, version 3 (GPLv3).
+See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
